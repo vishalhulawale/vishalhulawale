@@ -1,10 +1,10 @@
 # Hi, I am Vishal Hulawale
 
-I am an expert Full Stack Software Developer and cloud enthusiast. I am passionate about technologies and love to learn new things.
+I'm an experienced software engineer who constantly seeks out innovative solutions to everyday problems. I am a cloud enthusiast who is passionate about technologies.
 
 #### 🔭 I’m currently looking for new opportunities.
 
-## ⚡ Tech Skills
+## ⚡ My Superpowers ⚡
 
 Here are a few things I've picked up along my learning journey.
 
@@ -22,17 +22,31 @@ Here are a few things I've picked up along my learning journey.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Openstack](https://img.shields.io/badge/Openstack-ED1944?style=for-the-badge&logo=Openstack&logoColor=white)
+![vShere](https://img.shields.io/badge/VMware&nbsp;vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache&nbsp;Tomcat-F8DC75?style=for-the-badge&logo=Apache-Tomcat&logoColor=black)
+
+
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache-Maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white)
+![Sonarqube](https://img.shields.io/badge/Sonarqube-4E9BCD?style=for-the-badge&logo=Sonarqube&logoColor=white)
+
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/Gitlab-232F3E?style=for-the-badge&logo=Gitlab&logoColor=white)
 ![Teamcity](https://img.shields.io/badge/Teamcity-000000?style=for-the-badge&logo=Teamcity&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub&nbsp;Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![SVN](https://img.shields.io/badge/subversion-809CC9.svg?&style=for-the-badge&logo=subversion&logoColor=white)
