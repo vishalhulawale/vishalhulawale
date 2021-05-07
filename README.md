@@ -4,7 +4,7 @@ I'm an experienced software engineer who constantly seeks out innovative solutio
 
 #### 🔭 I’m currently looking for new opportunities.
 
-## ⚡ My Superpowers ⚡
+## ⚡ My Technical Skills ⚡
 
 Here are a few things I've picked up along my learning journey.
 
