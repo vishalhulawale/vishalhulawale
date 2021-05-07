@@ -1,6 +1,6 @@
 # Hi, I am Vishal Hulawale
 
-I'm an experienced software engineer who constantly seeks out innovative solutions to everyday problems. I am a cloud enthusiast who is passionate about technologies.
+Enthusiastic Fullstack Developer with 3.5+ years of comprehensive experience in DevOps & CI/CD, Web Application Development areas with willingness to learn and master Machine Learning and NoSQL. Multithreading Development specialist.
 
 #### 🔭 I’m currently looking for new opportunities.
 
